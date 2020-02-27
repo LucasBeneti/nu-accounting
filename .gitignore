@@ -1,0 +1,5 @@
+*.pickle
+*.png
+*.txt
+.vscode/
+.ipynb_checkpoints/
